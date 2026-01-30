@@ -28,7 +28,7 @@ Programming Language: C++ (with OOP principles).
 
 
 
-Sensors: Pulse Sensor, Temperature Sensor (NTC/DS18B20).
+Sensors: Pulse Sensor, Temperature Sensor (NTC/DS18B20), Motion (Gyro) Sensor MPU6050.
 
 
 Tools: Arduino IDE / PlatformIO, Proteus (for circuit simulation).
